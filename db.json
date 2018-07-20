@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Renato Benkendorf",
+      "email": "renato.benkendorf@creditas.com.br",
+      "nickname": "renatobenks",
+      "company": "Creditas"
+    },
+    {
+      "id": 2,
+      "name": "Caio Abe",
+      "email": "caio.abe@creditas.com.br",
+      "nickname": "caio.abe",
+      "company": "Creditas"
+    }
+  ]
+}
